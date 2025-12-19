@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Aarav Mehta",
+    "specialization": "Cardiologist",
+    "hospital": "Fortis Hospital",
+    "email": "aarav.mehta@fortis.example",
+    "experience": "10 years",
+    "rating": 4.8,
+    "fees": 800,
+    "availability": [
+      { "day": "Monday", "slots": ["10:00", "11:00", "14:00", "16:00"] },
+      { "day": "Wednesday", "slots": ["09:30", "12:00", "15:00"] }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Dr. Rohan Khanna",
+    "specialization": "Neurologist",
+    "hospital": "Fortis Hospital",
+    "email": "rohan.khanna@fortis.example",
+    "experience": "12 years",
+    "rating": 4.7,
+    "fees": 900,
+    "availability": [
+      { "day": "Tuesday", "slots": ["10:00", "12:00", "15:00"] },
+      { "day": "Thursday", "slots": ["11:00", "14:00"] }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Dr. Varun Mehta",
+    "specialization": "Orthopedic",
+    "hospital": "Fortis Hospital",
+    "email": "varun.mehta@fortis.example",
+    "experience": "9 years",
+    "rating": 4.6,
+    "fees": 700,
+    "availability": [
+      { "day": "Monday", "slots": ["09:00", "10:30"] },
+      { "day": "Friday", "slots": ["12:00", "14:00", "16:00"] }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Dr. Priya Nair",
+    "specialization": "Pediatrician",
+    "hospital": "AIIMS Hospital",
+    "email": "priya.nair@aiims.example",
+    "experience": "8 years",
+    "rating": 4.9,
+    "fees": 500,
+    "availability": [
+      { "day": "Wednesday", "slots": ["09:00", "12:00", "15:00"] },
+      { "day": "Saturday", "slots": ["10:00", "13:00"] }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Dr. Kabir Malhotra",
+    "specialization": "Orthopedic",
+    "hospital": "AIIMS Hospital",
+    "email": "kabir.malhotra@aiims.example",
+    "experience": "9 years",
+    "rating": 4.7,
+    "fees": 600,
+    "availability": [
+      { "day": "Tuesday", "slots": ["10:00", "12:30", "16:00"] },
+      { "day": "Thursday", "slots": ["11:00", "13:00", "15:30"] }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Dr. Sana Kapoor",
+    "specialization": "Dermatologist",
+    "hospital": "AIIMS Hospital",
+    "email": "sana.kapoor@aiims.example",
+    "experience": "7 years",
+    "rating": 4.5,
+    "fees": 400,
+    "availability": [
+      { "day": "Tuesday", "slots": ["11:00", "13:00"] },
+      { "day": "Friday", "slots": ["10:00", "12:30", "17:00"] }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Dr. Meera Jain",
+    "specialization": "General Physician",
+    "hospital": "Max Healthcare",
+    "email": "meera.jain@max.example",
+    "experience": "11 years",
+    "rating": 4.4,
+    "fees": 450,
+    "availability": [
+      { "day": "Monday", "slots": ["09:00", "10:00", "11:30"] },
+      { "day": "Thursday", "slots": ["14:00", "16:00"] }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Dr. Alok Sharma",
+    "specialization": "Cardiologist",
+    "hospital": "Max Healthcare",
+    "email": "alok.sharma@max.example",
+    "experience": "15 years",
+    "rating": 4.9,
+    "fees": 1000,
+    "availability": [
+      { "day": "Tuesday", "slots": ["10:30", "12:00", "15:30"] },
+      { "day": "Friday", "slots": ["09:00", "11:00", "14:00"] }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Dr. Kunal Verma",
+    "specialization": "Neurologist",
+    "hospital": "City Clinic",
+    "email": "kunal.verma@city.example",
+    "experience": "12 years",
+    "rating": 4.6,
+    "fees": 850,
+    "availability": [
+      { "day": "Monday", "slots": ["10:00", "13:00"] },
+      { "day": "Wednesday", "slots": ["11:00", "15:00"] }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Dr. Aditi Singh",
+    "specialization": "Pediatrician",
+    "hospital": "City Clinic",
+    "email": "aditi.singh@city.example",
+    "experience": "6 years",
+    "rating": 4.3,
+    "fees": 450,
+    "availability": [
+      { "day": "Saturday", "slots": ["09:30", "11:30"] },
+      { "day": "Wednesday", "slots": ["10:00", "13:30"] }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Dr. Nikhil Rao",
+    "specialization": "Gastroenterologist",
+    "hospital": "Fortis Hospital",
+    "email": "nikhil.rao@fortis.example",
+    "experience": "8 years",
+    "rating": 4.5,
+    "fees": 700,
+    "availability": [
+      { "day": "Thursday", "slots": ["10:00", "12:30", "16:30"] },
+      { "day": "Friday", "slots": ["09:00", "11:30"] }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Dr. Kavya Reddy",
+    "specialization": "ENT",
+    "hospital": "Max Healthcare",
+    "email": "kavya.reddy@max.example",
+    "experience": "9 years",
+    "rating": 4.2,
+    "fees": 500,
+    "availability": [
+      { "day": "Monday", "slots": ["11:00", "14:00"] },
+      { "day": "Thursday", "slots": ["09:30", "12:00"] }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Dr. Saurabh Jain",
+    "specialization": "Pulmonologist",
+    "hospital": "City Clinic",
+    "email": "saurabh.jain@city.example",
+    "experience": "13 years",
+    "rating": 4.6,
+    "fees": 750,
+    "availability": [
+      { "day": "Tuesday", "slots": ["09:00", "11:00", "14:00"] },
+      { "day": "Saturday", "slots": ["10:00", "12:30"] }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Dr. Leena Patel",
+    "specialization": "Dermatologist",
+    "hospital": "Sunrise Clinic",
+    "email": "leena.patel@sunrise.example",
+    "experience": "5 years",
+    "rating": 4.1,
+    "fees": 350,
+    "availability": [
+      { "day": "Wednesday", "slots": ["11:00", "13:00"] },
+      { "day": "Friday", "slots": ["15:00", "17:00"] }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Dr. Mohit Gupta",
+    "specialization": "General Physician",
+    "hospital": "Sunrise Clinic",
+    "email": "mohit.gupta@sunrise.example",
+    "experience": "4 years",
+    "rating": 4.0,
+    "fees": 300,
+    "availability": [
+      { "day": "Monday", "slots": ["09:30", "11:30"] },
+      { "day": "Thursday", "slots": ["10:30", "14:30"] }
+    ]
+  }
+]
